@@ -1,5 +1,6 @@
 export { default as HeaderMenu } from "./HeaderMenu"
 export { default as CardExample } from "./CardExample"
+export { default as HopeComponent } from "./HopeComponent"
 export { default as EmbedJS } from "./EmbedJS"
 export { default as CardWorkStep2 } from "./CardWorkStep2"
 export { default as CardExampleStep2 } from "./CardExampleStep2"

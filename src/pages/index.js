@@ -107,6 +107,15 @@ export default (() => {
 					bottom="-1px"
 					left="auto"
 				/>
+				<Components.HopeComponent
+					height="150px"
+					width="150px"
+					background="#945e5e"
+					border-style="outset"
+					border-radius="75px"
+					border-color="#c14e4e"
+					border-width="1px"
+				/>
 			</Box>
 		</Section>
 		<Section padding="100px 0" sm-padding="40px 0" md-padding="60px 0 60px 0" quarkly-title="Step 1. Pages">
